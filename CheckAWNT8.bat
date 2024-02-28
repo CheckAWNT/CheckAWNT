@@ -1,12 +1,12 @@
 @echo off
-echo "----CheckAWNT8-------------------------------"
-echo "Welcome to CheckAWNT8! (Windows 10/11)"
-echo "This will allow you to run the Sticky Keys Exploit"
-echo "1: Inject jailbreak"
-echo "2: Remove Veyon Surveillance (doesn't work yet)"
-echo "3: Restart"
-echo "4: Exit"
-echo "5: Inject jailbreak (Utilman method) (doesn't work yet)"
+echo ----CheckAWNT8-------------------------------
+echo Welcome to CheckAWNT8! (Windows 10/11)
+echo This will allow you to run the Sticky Keys Exploit
+echo 1: Inject jailbreak
+echo 2: Remove Veyon Surveillance (doesn't work yet)
+echo 3: Restart
+echo 4: Exit
+echo 5: Inject jailbreak (Utilman method) (doesn't work yet)
 set /p choice=Enter an option:
 
 if "%choice%"=="1" goto 1

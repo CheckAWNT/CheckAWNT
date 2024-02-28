@@ -2,6 +2,7 @@
 echo ----CheckAWNT8-------------------------------
 echo Welcome to CheckAWNT8! (Windows 10/11)
 echo This will allow you to run the Sticky Keys Exploit
+echo (You take full responsibility for the jailbreak)
 echo 1: Inject jailbreak
 echo 2: Remove Veyon Surveillance (doesn't work yet)
 echo 3: Restart
